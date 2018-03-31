@@ -1,7 +1,7 @@
 {
   "name": "cowsay4reddit",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bot that takes the best part of Linux, and puts it into Reddit",
   "main": "app.js",
   "dependencies": {},
   "devDependencies": {},
@@ -9,5 +9,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisChrisLoLo/cowsay4reddit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChrisChrisLoLo/cowsay4reddit/issues"
+  },
+  "homepage": "https://github.com/ChrisChrisLoLo/cowsay4reddit#readme"
 }
